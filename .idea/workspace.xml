@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="975c564e-8e65-4658-90f5-7cafac8e920a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3_Classes/7_IntroToClasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_PythonGUI/7_SimpleGUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_PythonGUI/8_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_PythonGUI/calculator.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Classes/10_InstanceMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Classes/11_InstanceAttribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Classes/12_initConstructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Classes/13_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Classes/14_multipleInheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Recap/1_RecapProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Recap/1_RecapProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Classes/9_IntroToClasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Classes/9_IntroToClasses.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,45 +19,66 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/IntermediatePython$5_WikipediaScraping_P4.coverage" NAME="5_WikipediaScraping_P4 Coverage Results" MODIFIED="1545966820388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_WebScraping" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$11_InstanceAttribute.coverage" NAME="11_InstanceAttribute Coverage Results" MODIFIED="1545979745738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$12_initConstructor.coverage" NAME="12_initConstructor Coverage Results" MODIFIED="1545980400255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$10_InstanceMethod.coverage" NAME="10_InstanceMethod Coverage Results" MODIFIED="1545978763876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$3_WikipediaScraping_P2.coverage" NAME="3_WikipediaScraping_P2 Coverage Results" MODIFIED="1545962336604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_WebScraping" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$8_Calculator__1_.coverage" NAME="8_Calculator (1) Coverage Results" MODIFIED="1545979711995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$9_IntroToClasses.coverage" NAME="9_IntroToClasses Coverage Results" MODIFIED="1545978242389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
     <SUITE FILE_PATH="coverage/IntermediatePython$7_SimpleGUI.coverage" NAME="7_SimpleGUI Coverage Results" MODIFIED="1545973762005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_PythonGUI" />
     <SUITE FILE_PATH="coverage/IntermediatePython$6_WikipediaScraping_P5.coverage" NAME="6_WikipediaScraping_P5 Coverage Results" MODIFIED="1545970240835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_WebScraping" />
-    <SUITE FILE_PATH="coverage/IntermediatePython$8_Calculator.coverage" NAME="8_Calculator Coverage Results" MODIFIED="1545975565419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_PythonGUI" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$8_Calculator.coverage" NAME="8_Calculator Coverage Results" MODIFIED="1545979662972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_PythonGUI" />
     <SUITE FILE_PATH="coverage/IntermediatePython$2_WikipediaScraping.coverage" NAME="2_WikipediaScraping Coverage Results" MODIFIED="1545962211088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_WebScraping" />
     <SUITE FILE_PATH="coverage/IntermediatePython$1_RecapProject.coverage" NAME="1_RecapProject Coverage Results" MODIFIED="1545961594993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Recap" />
-    <SUITE FILE_PATH="coverage/IntermediatePython$3_WikipediaScraping_P2.coverage" NAME="3_WikipediaScraping_P2 Coverage Results" MODIFIED="1545962336604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_WebScraping" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$14_multipleInheritance.coverage" NAME="14_multipleInheritance Coverage Results" MODIFIED="1545984573506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
     <SUITE FILE_PATH="coverage/IntermediatePython$4_WikipediaScraping_P3.coverage" NAME="4_WikipediaScraping_P3 Coverage Results" MODIFIED="1545962716538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_WebScraping" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$13_Inheritance.coverage" NAME="13_Inheritance Coverage Results" MODIFIED="1545981285947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_PythonGUI/7_SimpleGUI.py">
+        <entry file="file://$PROJECT_DIR$/4_Classes/10_InstanceMethod.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_Classes/13_Inheritance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4_PythonGUI/8_Calculator.py">
+        <entry file="file://$PROJECT_DIR$/4_Classes/14_multipleInheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="36">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_Classes/7_IntroToClasses.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/4_Classes/11_InstanceAttribute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_PythonGUI/calculator.kv">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/4_Classes/12_initConstructor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -77,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_Recap/1_RecapProject.py" />
         <option value="$PROJECT_DIR$/2_WebScraping/2_WikipediaScraping.py" />
         <option value="$PROJECT_DIR$/2_WebScraping/2_WikipediaScraping_P1.py" />
         <option value="$PROJECT_DIR$/2_WebScraping/4_WikipediaScraping_P3.py" />
@@ -90,6 +113,13 @@
         <option value="$PROJECT_DIR$/3_Classes/7_IntroToClasses.py" />
         <option value="$PROJECT_DIR$/4_PythonGUI/8_Calculator.py" />
         <option value="$PROJECT_DIR$/4_PythonGUI/calculator.kv" />
+        <option value="$PROJECT_DIR$/4_Classes/9_IntroToClasses.py" />
+        <option value="$PROJECT_DIR$/1_Recap/1_RecapProject.py" />
+        <option value="$PROJECT_DIR$/4_Classes/10_InstanceMethod.py" />
+        <option value="$PROJECT_DIR$/4_Classes/12_initConstructor.py" />
+        <option value="$PROJECT_DIR$/4_Classes/11_InstanceAttribute.py" />
+        <option value="$PROJECT_DIR$/4_Classes/13_Inheritance.py" />
+        <option value="$PROJECT_DIR$/4_Classes/14_multipleInheritance.py" />
       </list>
     </option>
   </component>
@@ -115,7 +145,12 @@
             <path>
               <item name="IntermediatePython" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntermediatePython" type="462c0819:PsiDirectoryNode" />
-              <item name="4_PythonGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="3_PythonGUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntermediatePython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntermediatePython" type="462c0819:PsiDirectoryNode" />
+              <item name="4_Classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,6 +165,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\IntermediatePython\4_Classes" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -142,8 +182,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8_Calculator">
-    <configuration name="4_WikipediaScraping_P3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.14_multipleInheritance">
+    <configuration name="11_InstanceAttribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntermediatePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,12 +191,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_WebScraping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_WebScraping/4_WikipediaScraping_P3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Classes/11_InstanceAttribute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_WikipediaScraping_P4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12_initConstructor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntermediatePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,12 +213,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_WebScraping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_WebScraping/5_WikipediaScraping_P4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Classes/12_initConstructor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_WikipediaScraping_P5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntermediatePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,12 +235,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_WebScraping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_WebScraping/6_WikipediaScraping_P5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Classes/13_Inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_SimpleGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14_multipleInheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntermediatePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,12 +257,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_PythonGUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_PythonGUI/7_SimpleGUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Classes/14_multipleInheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8_Calculator (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntermediatePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,12 +279,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_PythonGUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_PythonGUI/8_Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Classes/8_Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.8_Calculator" />
-        <item itemvalue="Python.7_SimpleGUI" />
-        <item itemvalue="Python.6_WikipediaScraping_P5" />
-        <item itemvalue="Python.5_WikipediaScraping_P4" />
-        <item itemvalue="Python.4_WikipediaScraping_P3" />
+        <item itemvalue="Python.14_multipleInheritance" />
+        <item itemvalue="Python.13_Inheritance" />
+        <item itemvalue="Python.12_initConstructor" />
+        <item itemvalue="Python.11_InstanceAttribute" />
+        <item itemvalue="Python.8_Calculator (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -274,22 +314,23 @@
       <option name="presentableId" value="Default" />
       <updated>1545923084819</updated>
       <workItem from="1545923086454" duration="6691000" />
-      <workItem from="1545966247837" duration="4884000" />
+      <workItem from="1545966247837" duration="10038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11575000" />
+    <option name="totallyTimeSpent" value="16729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -297,7 +338,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -319,27 +360,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_Recap/1_RecapProject.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_WebScraping/2_WikipediaScraping_P1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_WebScraping/3_WikipediaScraping_P2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#24#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -388,26 +412,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_PythonGUI/7_SimpleGUI.py">
+    <entry file="file://$PROJECT_DIR$/3_PythonGUI/calculator.kv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_PythonGUI/7_SimpleGUI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="34">
           <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_WebScraping/3_WikipediaScraping_P2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#24#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_Classes/7_IntroToClasses.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_PythonGUI/calculator.kv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_PythonGUI/8_Calculator.py">
+    <entry file="file://$PROJECT_DIR$/4_Classes/9_IntroToClasses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Recap/1_RecapProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-680">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Classes/8_Calculator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_PythonGUI/8_Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Classes/12_initConstructor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Classes/11_InstanceAttribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Classes/10_InstanceMethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Classes/13_Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Classes/14_multipleInheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
