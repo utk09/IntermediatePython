@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="975c564e-8e65-4658-90f5-7cafac8e920a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_MiniPrograms/19_OSinfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_MiniPrograms/20_CreditCardValidator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MiniPrograms/21_ShutdownPC.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5_MiniPrograms/20_CreditCardValidator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="952">
               <caret line="84" column="16" selection-start-line="84" selection-end-line="84" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_MiniPrograms/21_ShutdownPC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -107,6 +114,7 @@
         <option value="$PROJECT_DIR$/5_MiniPrograms/19_OSinfo.py" />
         <option value="$PROJECT_DIR$/5_MiniPrograms/20_Movies.py" />
         <option value="$PROJECT_DIR$/5_MiniPrograms/20_CreditCardValidator.py" />
+        <option value="$PROJECT_DIR$/5_MiniPrograms/21_ShutdownPC.py" />
       </list>
     </option>
   </component>
@@ -301,22 +309,23 @@
       <option name="presentableId" value="Default" />
       <updated>1545923084819</updated>
       <workItem from="1545923086454" duration="6691000" />
-      <workItem from="1545966247837" duration="18095000" />
+      <workItem from="1545966247837" duration="18818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24786000" />
+    <option name="totallyTimeSpent" value="25509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -549,6 +558,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="84" column="16" selection-start-line="84" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_MiniPrograms/21_ShutdownPC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
