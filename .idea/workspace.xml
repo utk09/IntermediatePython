@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="975c564e-8e65-4658-90f5-7cafac8e920a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_MiniPrograms/17_BankSystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MiniPrograms/19_OSinfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_MiniPrograms/20_CreditCardValidator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_MiniPrograms/17_AddressBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_MiniPrograms/18_AddressBook.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +17,13 @@
     <SUITE FILE_PATH="coverage/IntermediatePython$17_AddressBook.coverage" NAME="17_AddressBook Coverage Results" MODIFIED="1545987853115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_MiniPrograms" />
     <SUITE FILE_PATH="coverage/IntermediatePython$5_WikipediaScraping_P4.coverage" NAME="5_WikipediaScraping_P4 Coverage Results" MODIFIED="1545966820388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_WebScraping" />
     <SUITE FILE_PATH="coverage/IntermediatePython$16_specialMethods.coverage" NAME="16_specialMethods Coverage Results" MODIFIED="1545986086193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$20_CreditCardValidator.coverage" NAME="20_CreditCardValidator Coverage Results" MODIFIED="1545998368435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_MiniPrograms" />
     <SUITE FILE_PATH="coverage/IntermediatePython$18_BankClient.coverage" NAME="18_BankClient Coverage Results" MODIFIED="1545988331257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_MiniPrograms" />
     <SUITE FILE_PATH="coverage/IntermediatePython$11_InstanceAttribute.coverage" NAME="11_InstanceAttribute Coverage Results" MODIFIED="1545979745738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
     <SUITE FILE_PATH="coverage/IntermediatePython$12_initConstructor.coverage" NAME="12_initConstructor Coverage Results" MODIFIED="1545980400255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
     <SUITE FILE_PATH="coverage/IntermediatePython$10_InstanceMethod.coverage" NAME="10_InstanceMethod Coverage Results" MODIFIED="1545978763876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
     <SUITE FILE_PATH="coverage/IntermediatePython$3_WikipediaScraping_P2.coverage" NAME="3_WikipediaScraping_P2 Coverage Results" MODIFIED="1545962336604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_WebScraping" />
+    <SUITE FILE_PATH="coverage/IntermediatePython$19_OSinfo.coverage" NAME="19_OSinfo Coverage Results" MODIFIED="1545994232662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_MiniPrograms" />
     <SUITE FILE_PATH="coverage/IntermediatePython$8_Calculator__1_.coverage" NAME="8_Calculator (1) Coverage Results" MODIFIED="1545979711995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
     <SUITE FILE_PATH="coverage/IntermediatePython$9_IntroToClasses.coverage" NAME="9_IntroToClasses Coverage Results" MODIFIED="1545978242389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_Classes" />
     <SUITE FILE_PATH="coverage/IntermediatePython$7_SimpleGUI.coverage" NAME="7_SimpleGUI Coverage Results" MODIFIED="1545973762005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_PythonGUI" />
@@ -39,40 +41,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_Classes/15_PrivateVariables.py">
+        <entry file="file://$PROJECT_DIR$/5_MiniPrograms/19_OSinfo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_Classes/16_specialMethods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="357">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5_MiniPrograms/18_AddressBook.py">
+        <entry file="file://$PROJECT_DIR$/5_MiniPrograms/20_CreditCardValidator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="e#130#143#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_MiniPrograms/17_BankSystem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+            <state relative-caret-position="952">
+              <caret line="84" column="16" selection-start-line="84" selection-end-line="84" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -123,6 +104,9 @@
         <option value="$PROJECT_DIR$/5_MiniPrograms/5_1_SimpleKeyLogger/pyxhook.py" />
         <option value="$PROJECT_DIR$/5_MiniPrograms/5_1_SimpleKeyLogger/19_SimplePythonKeylogger.py" />
         <option value="$PROJECT_DIR$/5_MiniPrograms/18_BankSystem.py" />
+        <option value="$PROJECT_DIR$/5_MiniPrograms/19_OSinfo.py" />
+        <option value="$PROJECT_DIR$/5_MiniPrograms/20_Movies.py" />
+        <option value="$PROJECT_DIR$/5_MiniPrograms/20_CreditCardValidator.py" />
       </list>
     </option>
   </component>
@@ -144,6 +128,11 @@
             <path>
               <item name="IntermediatePython" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntermediatePython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntermediatePython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntermediatePython" type="462c0819:PsiDirectoryNode" />
+              <item name="4_Classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntermediatePython" type="b2602c69:ProjectViewProjectNode" />
@@ -180,51 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyxhook">
-    <configuration name="16_specialMethods" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IntermediatePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Classes/16_specialMethods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17_AddressBook" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IntermediatePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_MiniPrograms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\PythonProjects\IntermediatePython\5_MiniPrograms\18_AddressBook.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.20_CreditCardValidator">
     <configuration name="18_BankClient" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntermediatePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,6 +192,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="19_OSinfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntermediatePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_MiniPrograms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_MiniPrograms/19_OSinfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="19_SimplePythonKeylogger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntermediatePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,6 +228,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_MiniPrograms/5_1_SimpleKeyLogger/19_SimplePythonKeylogger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20_CreditCardValidator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntermediatePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_MiniPrograms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_MiniPrograms/20_CreditCardValidator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20_CreditCardValidator" />
+        <item itemvalue="Python.19_OSinfo" />
         <item itemvalue="Python.pyxhook" />
         <item itemvalue="Python.19_SimplePythonKeylogger" />
         <item itemvalue="Python.18_BankClient" />
-        <item itemvalue="Python.17_AddressBook" />
-        <item itemvalue="Python.16_specialMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -312,23 +301,22 @@
       <option name="presentableId" value="Default" />
       <updated>1545923084819</updated>
       <workItem from="1545923086454" duration="6691000" />
-      <workItem from="1545966247837" duration="15496000" />
+      <workItem from="1545966247837" duration="18095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22187000" />
+    <option name="totallyTimeSpent" value="24786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,13 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Classes/16_specialMethods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5_MiniPrograms/addressbook">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -530,6 +511,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5_MiniPrograms/20_Movies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/5_MiniPrograms/17_BankSystem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
@@ -544,6 +528,27 @@
           <folding>
             <element signature="e#130#143#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Classes/16_specialMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_MiniPrograms/19_OSinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_MiniPrograms/20_CreditCardValidator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="84" column="16" selection-start-line="84" selection-end-line="84" selection-end-column="16" />
         </state>
       </provider>
     </entry>
