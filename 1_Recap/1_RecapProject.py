@@ -13,7 +13,7 @@ def get_guess():
 
     # This will loop as long as BOTH conditions are true:
     # 1. The number of guesses of left is greater than -1
-    # 2. The dash string does NOT equal the secret word
+    # 2_WebScraping. The dash string does NOT equal the secret word
     while guesses_left > -1 and not dashes == secret_word:
 
         # Print the amount of dashes and guesses left
