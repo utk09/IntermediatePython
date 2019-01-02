@@ -16,4 +16,4 @@ class Vehicle():
 
 motor = Vehicle()
 motor.type_of_vehicle()  # Calling the class Method
-# print(car.randomValue)  # Calling the instance attribute
+# print(motor.randomValue)  # Calling the instance attribute
